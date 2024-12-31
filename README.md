@@ -1,6 +1,6 @@
-PC Hub: A Mini Project for PC Enthusiasts 🖥️✨
+Computism: A Mini Project for PC Enthusiasts 🖥️✨
 
-Welcome to PC Hub, a fun and simple platform designed as a mini-project for exploring the exciting world of PC building and services! 🎮💻
+Welcome to Computism, a fun and simple platform designed as a mini-project for exploring the exciting world of PC building and services! 🎮💻
 
 🌟 Features:
 🛒 Browse & Buy: Explore a catalog of individual PC parts for purchase.
