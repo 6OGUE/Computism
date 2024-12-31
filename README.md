@@ -14,3 +14,7 @@ This mini-project showcases the essential features of an e-commerce platform, of
 
 
 Feel free to explore, tweak, and expand this project as you like. 🌈
+
+(IGNORE tmp or temp files if any🙂)
+(Also sorry for the messed up organization)
+(Run using WAMP)
