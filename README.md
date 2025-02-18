@@ -3,6 +3,7 @@ Computism: A Mini Project for PC Enthusiasts 🖥️✨
 Welcome to Computism, a fun and simple platform designed as a mini-project for exploring the exciting world of PC building and services! 🎮💻
 
 🌟 Features:
+
 🛒 Browse & Buy: Explore a catalog of individual PC parts for purchase.
 
 🛠️ Custom PC Builder: Create your dream PC and assemble it in authorized stores.
